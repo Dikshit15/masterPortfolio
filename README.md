@@ -1,2 +1,0 @@
-# masterPortfolio
-Personal Portfolio Website
